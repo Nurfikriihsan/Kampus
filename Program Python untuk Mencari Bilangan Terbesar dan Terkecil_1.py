@@ -1,9 +1,9 @@
 import datetime
 
-# Minta pengguna untuk memasukkan tanggal
-tahun = int(input("Masukkan tahun (contoh: 2023): "))
-bulan = int(input("Masukkan bulan (1-12): "))
-hari = int(input("Masukkan hari (1-31): "))
+# User memasukkan tanggal
+tahun = int(input("Masukkan tahun: "))
+bulan = int(input("Masukkan bulan: "))
+hari = int(input("Masukkan hari: "))
 
 # Validasi tanggal
 try:

@@ -1,4 +1,4 @@
-# Memasukkan nilai dari pengguna
+# Memasukkan nilai dari user
 nilai = float(input("Masukkan nilai Anda: "))
 
 # Menentukan kelulusan

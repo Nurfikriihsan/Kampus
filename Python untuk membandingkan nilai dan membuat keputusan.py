@@ -1,4 +1,4 @@
-# Meminta pengguna untuk memasukkan jumlah barang yang akan dibeli
+# User memasukkan jumlah barang yang akan dibeli
 N = int(input("Masukkan jumlah barang yang akan dibeli: "))
 
 # Inisialisasi variabel total pembelian
